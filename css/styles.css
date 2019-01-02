@@ -139,12 +139,7 @@ a{
   font-size: 18px;
   font-weight: 100;
   padding: 17px;
-  background-color: #3D94F6;
-  -webkit-box-shadow: 1px 1px 20px 0px #000000;
-  -moz-box-shadow: 1px 1px 20px 0px #000000;
-  box-shadow: 1px 1px 20px 0px #000000;
-  text-shadow: 1px 1px 38px #000000;
-  border: solid #337FED 1px;
+  background-color: #34a7b2;
   text-decoration: none;
   display: inline-block;
   cursor: pointer;
