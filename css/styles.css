@@ -38,6 +38,10 @@ a{
   text-decoration: none;
 }
 
+a:hover{
+  color:  white;
+}
+
 .up {
   background-color: #7efaff;
   margin-top: 0;
